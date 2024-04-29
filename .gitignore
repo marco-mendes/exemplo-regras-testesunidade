@@ -1,0 +1,51 @@
+# Arquivos de build
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de usuário
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de teste de unidade
+[Testt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Arquivos de regras de estilo de código
+*.ruleset
+
+# Arquivos de banco de dados do SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Arquivos de backup
+*_bak.*
+*.bak
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Arquivos do Visual Studio Code
+.vscode/
+
+# Arquivos do Visual Studio
+.vs/
+
+# Arquivos do ReSharper
+_ReSharper*/
+
+# Arquivos do Rider
+.idea/
+
+# Arquivos do NuGet
+packages/
+
+# Arquivos de configuração do usuário
+*.rsuser
